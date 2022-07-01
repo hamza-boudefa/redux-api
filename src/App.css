@@ -1,0 +1,13 @@
+
+  .card {
+    border: black solid;
+    margin: 50px;
+  }
+
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 50px;
+}
+
